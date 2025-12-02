@@ -1,4 +1,4 @@
-from Stack import Stack
+from stack import Stack
 
 class TestStack:
     '''Class Stack in Stack.py'''
